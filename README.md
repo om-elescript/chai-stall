@@ -1,2 +1,2 @@
 # Chai Stall
-Cutting chai: Rs. 15
+Cutting chai: Rs. 20
