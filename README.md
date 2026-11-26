@@ -7,4 +7,4 @@ A menu website for a local chai stall.
 
 ## Info
 - Location: Kolhapur
-- Open: 7 AM - 10 PM
+- Open: 7 AM - 10 PM- Bun maska: Rs. 30
